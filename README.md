@@ -37,3 +37,40 @@ Below are the prompts I used during the development process. These demonstrate h
    ```bash
    git clone https://github.com/yourusername/snake-game-prompt-engineering.git
    cd snake-game-prompt-engineering
+
+2. Install Pygame if not already installed:
+   ```bash
+   pip install pygame
+
+3. Run the game:
+   ```bash
+   python snake_game.py
+
+## Controls 🎮
+
+- **Arrow keys**: Move the snake.  
+- **C**: Restart the game after losing.  
+- **Q**: Quit the game.  
+
+## Screenshots 📸
+
+Here's a preview of the Snake Game:
+
+![Game Screenshot](screenshots/game_screenshot.png)
+
+Enjoy controlling the snake while collecting food and avoiding collisions!
+
+## Key Takeaways 📚
+
+This project taught me:  
+- How to construct clear prompts for AI tools to build functional programs.  
+- The fundamentals of designing and enhancing a Python game using Pygame.  
+- The importance of iteration to refine outputs and create user-friendly features.  
+
+---
+
+## About Me 🙋‍♂️
+
+I am **Joe-Manuel Schlüter**, an AI enthusiast exploring the potential of AI tools through practical projects like this one.  
+Check out my [portfolio here](https://joesaistuff.github.io/) to see more of my work.
+
