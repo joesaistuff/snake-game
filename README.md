@@ -56,7 +56,7 @@ Below are the prompts I used during the development process. These demonstrate h
 
 Here's a preview of the Snake Game:
 
-![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](snake_game.png)
 
 Enjoy controlling the snake while collecting food and avoiding collisions!
 
