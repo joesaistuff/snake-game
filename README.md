@@ -35,8 +35,8 @@ Below are the prompts I used during the development process. These demonstrate h
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game-prompt-engineering.git
-   cd snake-game-prompt-engineering
+   git clone https://github.com/joesaistuff/snake-game.git
+   cd snake-game
 
 2. Install Pygame if not already installed:
    ```bash
