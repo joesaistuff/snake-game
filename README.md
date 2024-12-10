@@ -71,6 +71,5 @@ This project taught me:
 
 ## About Me 🙋‍♂️
 
-I am **Joe-Manuel Schlüter**, an AI enthusiast exploring the potential of AI tools through practical projects like this one.  
-Check out my [portfolio here](https://joesaistuff.github.io/) to see more of my work.
+I am **Joe-Manuel Schlüter**, an AI enthusiast exploring the potential of AI tools through practical projects like this one.
 
