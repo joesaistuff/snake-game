@@ -1,6 +1,6 @@
 # Snake Game 🐍🎮
 
-This project was created during the **Prompt Engineering Bootcamp by ZTM**. The goal was to prompt an AI assistant (ChatGPT) to build a classic Snake Game in Python using Pygame. This task was part of learning to construct clear, specific prompts for AI tools.
+This project was created during the **Prompt Engineering Bootcamp by Zero to Mastery**. The goal was to prompt an AI assistant (ChatGPT) to build a classic Snake Game in Python using Pygame. This task was part of learning to construct clear, specific prompts for AI tools.
 
 ---
 
