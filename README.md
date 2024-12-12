@@ -1,10 +1,10 @@
-# Snake Game 
+# 🐍 Snake Game
 
 This project was created during the **Prompt Engineering Bootcamp by Zero to Mastery**. The goal was to prompt an AI assistant (ChatGPT) to build a classic Snake Game in Python using Pygame. This task was part of learning to construct clear, specific prompts for AI tools.
 
 ---
 
-## Project Overview
+## 📝 Project Overview
 
 The Snake Game is a simple, retro-inspired game where players control a snake to collect food, growing longer with each item consumed. The challenge increases as the snake's length grows, making it harder to avoid collisions with itself or the screen boundaries.
 
@@ -15,7 +15,7 @@ The Snake Game is a simple, retro-inspired game where players control a snake to
 
 ---
 
-## Prompts Used to Create the Game
+## 💬 Prompts Used to Create the Game
 
 Below are the prompts I used during the development process. These demonstrate how step-by-step instructions were provided to guide the AI in creating the game:
 
@@ -31,28 +31,31 @@ Below are the prompts I used during the development process. These demonstrate h
 
 ---
 
-## How to Play
+## 🎮 How to Play
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/joesaistuff/snake-game.git
    cd snake-game
+   ```
 
 2. Install Pygame if not already installed:
    ```bash
    pip install pygame
+   ```
 
 3. Run the game:
    ```bash
    python snake_game.py
+   ```
 
-## Controls 
+## 🎛️ Controls
 
 - **Arrow keys**: Move the snake.  
 - **C**: Restart the game after losing.  
 - **Q**: Quit the game.  
 
-## Screenshots 📸
+## 📸 Screenshots
 
 Here's a preview of the Snake Game:
 
@@ -60,7 +63,9 @@ Here's a preview of the Snake Game:
 
 Enjoy controlling the snake while collecting food and avoiding collisions!
 
-## Key Takeaways 
+---
+
+## 💡 Key Takeaways
 
 This project taught me:  
 - How to construct clear prompts for AI tools to build functional programs.  
@@ -69,7 +74,7 @@ This project taught me:
 
 ---
 
-## About Me 
+## 👨‍💻 About Me
 
 I am **Joe-Manuel Schlüter**, an AI enthusiast exploring the potential of AI tools through practical projects like this one.
 
