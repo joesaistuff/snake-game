@@ -1,4 +1,4 @@
-# Snake Game 🐍🎮
+# Snake Game 
 
 This project was created during the **Prompt Engineering Bootcamp by Zero to Mastery**. The goal was to prompt an AI assistant (ChatGPT) to build a classic Snake Game in Python using Pygame. This task was part of learning to construct clear, specific prompts for AI tools.
 
@@ -46,7 +46,7 @@ Below are the prompts I used during the development process. These demonstrate h
    ```bash
    python snake_game.py
 
-## Controls 🎮
+## Controls 
 
 - **Arrow keys**: Move the snake.  
 - **C**: Restart the game after losing.  
@@ -60,7 +60,7 @@ Here's a preview of the Snake Game:
 
 Enjoy controlling the snake while collecting food and avoiding collisions!
 
-## Key Takeaways 📚
+## Key Takeaways 
 
 This project taught me:  
 - How to construct clear prompts for AI tools to build functional programs.  
@@ -69,7 +69,7 @@ This project taught me:
 
 ---
 
-## About Me 🙋‍♂️
+## About Me 
 
 I am **Joe-Manuel Schlüter**, an AI enthusiast exploring the potential of AI tools through practical projects like this one.
 
